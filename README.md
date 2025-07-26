@@ -1,4 +1,4 @@
-# Hi there, I'm Ghostio! 👋
+# Hi there, I'm LuneX (Or Lune)! 👋
 
 Welcome to my corner of GitHub, where I'm passionately building a hub for **digital privacy, security, and open-source advocacy**. As a dedicated enthusiast in this ever-evolving digital landscape, I believe everyone deserves to control their own data and enjoy true online freedom.
 
