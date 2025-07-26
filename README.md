@@ -23,4 +23,4 @@ I'm always learning and exploring new ways to champion digital privacy. Feel fre
 
 Together, we can build a more private and secure digital future.
 
-My Website: [Click Here!](https://ghostio-cmd.github.io/privacy-guide-website/)
+My Website: [Click Here!](https://lunex403.github.io/privacy-guide-website/)
